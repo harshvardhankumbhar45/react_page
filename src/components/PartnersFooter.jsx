@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const PartnersFooter = () => {
   return (
-    <Partners className="card"  style={{ width: "18rem" }}>
+    <Partners className="card"  style={{ width: "19rem" }}>
       <div className="card-body">
           <h5 className="card-title">PARTNERS</h5>
           <div>

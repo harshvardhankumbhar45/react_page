@@ -29,7 +29,7 @@ const SocialLinksFooter = () => {
   "Mindfulness",
   "THE ESSENCE OF LIFE"]
   return (
-    <SocialLinks className="card" style={{ width: "18rem" }}>
+    <SocialLinks className="card" style={{ width: "19rem" }}>
         <div className="card-body">
           <div className="card-container">
             {socialLinks.map((data) => (

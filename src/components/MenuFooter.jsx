@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const MenuFooter = ({ navLink }) => {
   return (
-      <Menu className="card" style={{ width: "18rem" }}>
+      <Menu className="card" style={{ width: "19rem" }}>
         <div className="card-body">
           <h5 className="card-title">MENU</h5>
           <div className="card-text-container">
